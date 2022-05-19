@@ -41,4 +41,4 @@ Now you can run your beatiful Hello World like a pro with ```./hello-world.pol``
 
 ### What Now?
 ENDLESS POSSIBILITIES!!!<br><br>
-You are free in doing what ever you want to do. At first I would suggest you go to the polaris-tutorial repo on [github](https://github.com/Sebull-git/polaris-tutorial) and look at some of the example scripts. There you get a pretty good understanding of how this wonderfull language works, more polaris tutorials like this will appear on here some time in the future. 
+You are free in doing what ever you want to do. At first I would suggest you go to the polaris-tutorial repo on [github](https://github.com/Sebull-git/polaris-tutorial) and look at some of the example scripts. There you get a pretty good understanding of how this wonderful language works, more polaris tutorials like this will appear on here some time in the future. 
