@@ -4,7 +4,8 @@ title:  "Welcome to Polaris"
 date:   2022-05-19 14:26:01 +0200
 categories: polaris
 ---
-
+Hi, <br>
+In this Post I am going to give you a short introduction to Polaris, a very cool programming language with Shell Scripting capabilities.
 ### Why?
 Did you ever write bash scripts, like install or build scripts. I wrote a lot for some of my projects and I came to the conclusion that bash is the demonic evil in this world! That's where Polaris came in and cooled me down. I finally found peace in making Scripts which where easy to write. <br>
 <br>
