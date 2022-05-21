@@ -6,7 +6,7 @@ categories: selfimprovement
 ---
 
 Hi, <br>
-In this Post I am going to write about my workflow and how I organize myself with [Obsidian](Obsidian.md)
+In this Post I am going to write about my workflow and how I organize myself with [Obsidian](https://obsidian.md)
 
 ### What is Obsidian? <br>
 Obsidian is a note-taking tool. The Website states, "your second brain". This explains what Obsidian is all about.<br>
@@ -34,6 +34,6 @@ Now I started using Obsidian for managing and organizing my file, my goals, my t
 I will need some time to get myself used to this kind of organization, but I think I am on a good path to finally find peace in organizing myself. 
 
 ### Your turn
-If you want to check out Obsidian, go to ```Obsidian.md``` and download Obsidian, it is available for all Unix Distros, Windows and macOS and also Mobile on the App Store and Google Play. 
+If you want to check out Obsidian, go to [Obsidian.md](https://obsidian.md) and download Obsidian, it is available for all Unix Distros, Windows and macOS and also Mobile on the App Store and Google Play. 
 
 
